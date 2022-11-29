@@ -8,12 +8,28 @@ body {
   
   .box {
     width: 180px;
-    background: white;
     border-radius: 10%;
     padding-bottom: 25%;
     float: left;
     margin: 1.5%;
-    
+    }
+    .box1{
+      background-color: #E52121;
+    }
+    .box2{
+      background-color: #FF8C00;
+    }
+    .box3{
+      background-color: #2AE27F;
+    }
+    .box4{
+      background-color: #940C6E;
+    }
+    .box5{
+      background-color: #0000CD;
+    }
+    .box6{
+      background-color: #00FFFF;
     }
 
     h1 {
