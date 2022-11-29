@@ -1,0 +1,40 @@
+body {
+    background-color: #c5eaf3;
+    margin: 0;
+    font-family: sans-serif;
+    font-weight: normal;
+    text-transform: uppercase;
+  }
+  
+  .box {
+    width: 180px;
+    background: white;
+    border-radius: 10%;
+    padding-bottom: 25%;
+    float: left;
+    margin: 1.5%;
+    
+    }
+
+    h1 {
+        color: black;
+        text-align: center;
+        line-height: 1.1;
+	    padding: 20px 0;
+    } 
+    
+    h3 {
+        color: black;
+        text-align: center;
+        line-height: 1.1;
+	    
+    }
+  
+  
+  #container {
+    max-width: 600px;
+	margin: 20px auto;
+    padding-top: 1%;
+    
+  }
+  
